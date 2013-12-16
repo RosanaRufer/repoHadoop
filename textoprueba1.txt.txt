@@ -1,0 +1,9 @@
+hola esto es una prueba
+y no sé qué decir
+ahora con hive tengo que
+crear una bbdd externa o gestionada
+que insertará cada una de las lineas de este fichero
+en una tabla y posteriormente
+creare otra tabla cuyo delimitador del fichero
+sera el espacio y crear asi un diccionario
+fin
